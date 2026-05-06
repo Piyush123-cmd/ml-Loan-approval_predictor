@@ -25,6 +25,3 @@ In the banking sector, identifying risky customers is crucial. This model analyz
 1. Clone the repository.
 2. Install dependencies: `pip install pandas scikit-learn imblearn matplotlib seaborn`.
 3. Run the `LoanApprovalPredictor.ipynb` notebook.
-
----
-*Developed as part of my AI/ML journey at SPPU.*
